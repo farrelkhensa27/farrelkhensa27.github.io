@@ -5,11 +5,6 @@
 <a href="https://github.com/WarcKz"><img title="Author" src="https://img.shields.io/badge/Author-WarcKz-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/SenkuXZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/SenkuXZ?color=blue&style=flat-square"></a>
-<a href="https://github.com/SenkuXZ/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SenkuXZ/Bot-Wa?color=red&style=flat-square"></a>
-<a href="https://github.com/SenkuXZ/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SenkuXZ/Bot-Wa?color=red&style=flat-square"></a>
-<a href="https://github.com/SenkuXZ/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SenkuXZ/Bot-Wa?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-<p align='center'>
-   <a href="https://instagram.com/021parapaaa_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>
+<a href="https://wa.me/6281515982740"><img height="30" src="https://www.freeiconspng.com/uploads/whatsapp-black-logo-icon--24.png"></a>
+<a href="https://www.instagram.com/warclol/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </P>
